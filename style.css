@@ -5,7 +5,10 @@ nav{
     background-color: rgb(37, 37, 35);
     color: white;
     padding: 20px;
+    position: fixed;
+    width: 100%;
 }
+
 li,ul,h1{
     display: inline;
 }
@@ -21,6 +24,7 @@ li{
     background-size: cover;
     background-position: center;
     height: 600px;
+    padding-top: 20px;
 }
 #wel{
     padding-top: 200px;
